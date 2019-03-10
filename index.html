@@ -50,7 +50,7 @@ section:last-child {
     </section>
     <section id='section1' class='active'>
         <h3>The Beginning</h3>
-        <p> I was born and raised in San Carlos, California by a long line of native Californians. I was brought up with values of inclusion, academic excellence and doing good for people and the planet. My parents were an educator and a tech company executive. 
+        <p> I was born and raised in San Carlos, California by an educator and a tech company executive. I was brought up with values of inclusion, academic excellence and doing good for people and the planet.
     </section>
     <section id='section2'>
         <h3>High School: 2010 - 2014</h3>
