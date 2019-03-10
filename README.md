@@ -46,7 +46,7 @@ section:last-child {
 <div id='features'>
     <section id='welcome' class='active'>
         <h3> Analisa Bauhaus: Resumap</h3>
-        <p>Welcome to my resumap! In addition to my standard resume, I created this resume-map to give you a better idea of who I am and where I come from. <br><br> Scroll through to see where I am now and go back to where I began. <br><br></p>
+        <p>Welcome to my resumap! In addition to my standard resume, I created this resume-map to give you a better idea of who I am and where I come from. <br><br> Scroll through to see how I got to where I am today. <br><br></p>
     </section>
     <section id='section1' class='active'>
         <h3>The Beginning</h3>
@@ -86,7 +86,7 @@ section:last-child {
     </section>
     <section id='section10'>
         <h3>Today</h3>
-        <p>10. I am currently doing a year of national service through the AmeriCorps VISTA program. AmeriCorps VISTA is a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty. I am serving as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
+        <p>I am currently doing a year of national service through the AmeriCorps VISTA program. AmeriCorps VISTA is a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty. I am serving as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
     </section>
 </div>
 <script>
