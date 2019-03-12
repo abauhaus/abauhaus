@@ -175,7 +175,7 @@ var chapters = {
         zoom: 16,
         speed: 0.6,
         pitch: 0 
-    };
+    }};
 // On every scroll event, check which element is on screen
 window.onscroll = function() {
     var chapterNames = Object.keys(chapters);
