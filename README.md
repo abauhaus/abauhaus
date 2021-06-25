@@ -85,7 +85,7 @@ section:last-child {
     </section>
     <section id='section10'>
         <h3>Post-Grad: 2018 to 2019</h3>
-        <p>After earning by B.A., I completed a year of national service through the AmeriCorps VISTA program, a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty.<p>I served as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
+        <p>After earning by B.A., I completed a year of national service through the AmeriCorps VISTA program, a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty.<p>As an AmeriCorps VISTA, I served as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
     </section>
     <section id='section11'>
         <h3>2019 to 2020</h3>
@@ -199,7 +199,7 @@ var chapters = {
     'section12': {
         bearing: 0,
         center: [-76.6506001, 40.2854881],
-        zoom: 10,
+        zoom: 9,
         speed: 0.6,
         pitch: 1
      },
