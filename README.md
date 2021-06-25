@@ -57,7 +57,7 @@ section:last-child {
     </section>
     <section id='section3'>
         <h3>College: 2014 - 2018</h3>
-        <p>In August of 2014 I moved across 3,000 miles from home to Carlisle, PA to continue my education at Dickinson College, my first choice school! In my second semester at Dickinson I was invited to join Kappa Alpha Theta, a Women’s Fraternity with values of intellectual curiosity, leadership potential, commitment to service, and personal excellence. During my sophomore year, I joined and then was made co-president of the Red Devil Swim Club, Dickinson’s club swim team. I also served as the club’s Sports Club Council Representative. <br><br>
+        <p>In August of 2014 I moved across 3,000 miles from home to Carlisle, PA to continue my education at Dickinson College, my first choice school! In my second semester at Dickinson I was invited to join Kappa Alpha Theta, a Women’s Fraternity with values of intellectual curiosity, leadership potential, commitment to service, and personal excellence. During my sophomore year, I joined and then was made co-president of the Red Devil Swim Club, Dickinson’s club swim team. I also served as the club’s Sports Club Council Representative. <p>
     </section>
     <section id='section4'>
         <h3>Summer Abroad: 2016</h3>
