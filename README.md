@@ -130,84 +130,84 @@ var chapters = {
         bearing: 0,
         zoom: 16,
         speed: 0.8,
-        pitch: 0
+        pitch: 1
     },
     'section3': {
         bearing: 0,
         center: [-77.196480, 40.202644],
         zoom: 16,
-        speed: 0.8,
-        pitch: 0.00
+        speed: 1,
+        pitch: 1
     },
     'section4': {
         bearing: 0,
         center: [-4.412525, 36.720476],
         zoom: 10,
-        speed: 0.8,
-        pitch: 0
+        speed: 1,
+        pitch: 1
     },
     'section5': {
         bearing: 0,
         center: [-122.402524, 37.789760],
-        zoom: 16,
-        pitch: 0,
-        speed: 0.8
+        zoom: 10,
+        pitch: 1,
+        speed: 1
     },
     'section6': {
         bearing: 0,
         center: [-4.417654, 36.727547],
-        zoom: 16,
-        pitch: 0,
-        speed: 0.8
+        zoom: 10,
+        pitch: 1,
+        speed: 1
     },
     'section7': {
         bearing: 0,
         center: [-76.856344, 40.316054],
-        zoom: 16,
+        zoom: 12,
         speed: 0.8,
-        pitch: 0
+        pitch: 1
     },
     'section8': {
         bearing: 0,
         center: [-77.189775, 40.201830],
-        zoom: 16,
+        zoom: 12,
         speed: 0.8,
-        pitch: 0
+        pitch: 1
      },
     'section9': {
         bearing: 0,
         center: [-77.196480, 40.202644],
         zoom: 16,
         speed: 0.8,
-        pitch: 0
+        pitch: 1
     },
     'section10': {
         bearing: 0,
         center: [-76.839820, 40.236482],
         zoom: 16,
         speed: 0.8,
-        pitch: 0 
+        pitch: 1
     },
     'section11': {
         bearing: 0,
         center: [-76.875740, 40.266410],
         zoom: 16,
         speed: 0.8,
-        pitch: 0 
+        pitch: 1 
      },
     'section12': {
         bearing: 0,
         center: [-76.875740, 40.266410],
         zoom: 16,
         speed: 0.8,
-        pitch: 0 
+        pitch: 1
      },
     'section13': {
         bearing: 0,
         center: [-79.995888, 40.440624],
         zoom: 16,
         speed: 0.8,
-        pitch: 0 
+        pitch: 1
     }};
 // On every scroll event, check which element is on screen
 window.onscroll = function() {
