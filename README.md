@@ -52,16 +52,16 @@ section:last-child {
         <p> I was born and raised in San Carlos, California by an educator and a tech company executive. I was brought up with values of inclusion, academic excellence and doing good for people and the planet.
     </section>
     <section id='section2'>
-        <h3>High School: 2010 - 2014</h3>
+        <h3>High School: 2010 to 2014</h3>
         <p> From 2010 to 2014 I attended Sequoia High School in Redwood City, California where I swam for both a club swim team and the high school team, as well as played water polo for the school. I was a member of the California Scholarship Federation and an All-American Athlete for both swimming and water polo.</p>
     </section>
     <section id='section3'>
-        <h3>College: 2014 - 2018</h3>
-        <p>In August of 2014 I moved across 3,000 miles from home to Carlisle, PA to continue my education at Dickinson College, my first choice school! In my second semester at Dickinson I was invited to join Kappa Alpha Theta, a Women’s Fraternity with values of intellectual curiosity, leadership potential, commitment to service, and personal excellence. During my sophomore year, I joined and then was made co-president of the Red Devil Swim Club, Dickinson’s club swim team. I also served as the club’s Sports Club Council Representative. <p>
+        <h3>College: 2014 to 2018</h3>
+        <p>In August of 2014 I moved 3,000 miles from home to Carlisle, PA to continue my education at Dickinson College, my first choice school! In my second semester at Dickinson I was invited to join Kappa Alpha Theta, a Women’s Fraternity with values of intellectual curiosity, leadership potential, commitment to service, and personal excellence. During my sophomore year, I joined and then was made co-president of the Red Devil Swim Club, Dickinson’s club swim team. I also served as the club’s Sports Club Council Representative. <p>
     </section>
     <section id='section4'>
         <h3>Summer Abroad: 2016</h3>
-        <p>  I spent the first part of the summer before junior year in Málaga, Spain as part of Dickinson’s Summer Study Abroad in Spain program where I practiced Spanish daily and developed a deep love for Málaga and Spanish culture. 
+        <p>  I spent the first part of the summer before junior year in Málaga, Spain as part of Dickinson’s Summer Study Abroad in Spain program where I practiced Spanish daily and developed a passion for Málaga and Spanish culture. 
     </section>
     <section id='section5'>
         <h3>Summer: 2016</h3>
@@ -69,7 +69,7 @@ section:last-child {
     </section>
     <section id='section6'>
         <h3>Semester Abroad: 2017</h3>
-        <p>6. Malaga Spain — In Spring 2017, I was able to return to Málaga for a semester abroad. I spent 5 months living with a Spanish host family and attending classes at the Universidad de Málaga. By the end of my stay in Spain, my Spanish fluency had improved immensely along with my understanding of Spanish culture.</p>
+        <p>Malaga Spain — In Spring 2017, I was able to return to Málaga for a semester abroad. I spent 5 months living with a Spanish host family and attending classes at the Universidad de Málaga. By the end of my stay in Spain, my Spanish fluency had improved immensely along with my understanding of Spanish culture.</p>
     </section>
     <section id='section7'>
         <h3>Summer: 2017</h3>
@@ -84,7 +84,7 @@ section:last-child {
         <p>In May 2018, I graduated from Dickinson College in Carlisle, PA with a Bachelor of the Arts degree in Sociology and Spanish Language and Literature!</p>
     </section>
     <section id='section10'>
-        <h3>Post-grad (2018 to 2019)</h3>
+        <h3>Post-Grad: 2018 to 2019</h3>
         <p>After earning by B.A., I completed a year of national service through the AmeriCorps VISTA program. AmeriCorps VISTA is a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty. I served as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
     </section>
     <section id='section11'>
@@ -116,96 +116,97 @@ var chapters = {
         bearing: -0,
         center: [-108.866174, 49.272291],
         zoom: 2,
-        speed: 0.8,
+        speed: 0.7,
         pitch: 0
     },
     'section1': {
         bearing: 0,
         center: [-122.261800, 37.504900],
         zoom: 13.00,
+        speed: 0.6,
         pitch: 1
     },
     'section2': {
         center: [-122.236630, 37.484400],
         bearing: 0,
-        zoom: 16,
-        speed: 0.8,
+        zoom: 14.5,
+        speed: 0.7,
         pitch: 1
     },
     'section3': {
         bearing: 0,
         center: [-77.196480, 40.202644],
-        zoom: 16,
-        speed: 1,
+        zoom: 13,
+        speed: .8,
         pitch: 1
     },
     'section4': {
         bearing: 0,
         center: [-4.412525, 36.720476],
-        zoom: 10,
-        speed: 1,
+        zoom: 11,
+        speed: .8,
         pitch: 1
     },
     'section5': {
         bearing: 0,
         center: [-122.402524, 37.789760],
-        zoom: 10,
+        zoom: 10.5,
         pitch: 1,
-        speed: 1
+        speed: .8
     },
     'section6': {
         bearing: 0,
         center: [-4.417654, 36.727547],
-        zoom: 10,
+        zoom: 11,
         pitch: 1,
-        speed: 1
+        speed: .8
     },
     'section7': {
         bearing: 0,
         center: [-76.856344, 40.316054],
-        zoom: 12,
+        zoom: 11,
         speed: 0.8,
         pitch: 1
     },
     'section8': {
         bearing: 0,
         center: [-77.189775, 40.201830],
-        zoom: 12,
+        zoom: 14,
         speed: 0.8,
         pitch: 1
      },
     'section9': {
         bearing: 0,
         center: [-77.196480, 40.202644],
-        zoom: 16,
+        zoom: 15,
         speed: 0.8,
         pitch: 1
     },
     'section10': {
         bearing: 0,
-        center: [-76.839820, 40.236482],
-        zoom: 16,
+        center: [-76.884407, 40.262730],
+        zoom: 13,
         speed: 0.8,
         pitch: 1
     },
     'section11': {
         bearing: 0,
         center: [-76.875740, 40.266410],
-        zoom: 16,
+        zoom: 13,
         speed: 0.8,
         pitch: 1 
      },
     'section12': {
         bearing: 0,
         center: [-76.875740, 40.266410],
-        zoom: 16,
+        zoom: 13,
         speed: 0.8,
         pitch: 1
      },
     'section13': {
         bearing: 0,
         center: [-79.995888, 40.440624],
-        zoom: 16,
+        zoom: 12,
         speed: 0.8,
         pitch: 1
     }};
