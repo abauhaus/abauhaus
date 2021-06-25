@@ -84,8 +84,20 @@ section:last-child {
         <p>In May 2018, I graduated from Dickinson College in Carlisle, PA with a Bachelor of the Arts degree in Sociology and Spanish Language and Literature!</p>
     </section>
     <section id='section10'>
-        <h3>Today</h3>
-        <p>I am currently doing a year of national service through the AmeriCorps VISTA program. AmeriCorps VISTA is a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty. I am serving as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
+        <h3>Post-grad (2018 to 2019)</h3>
+        <p>After earning by B.A., I completed a year of national service through the AmeriCorps VISTA program. AmeriCorps VISTA is a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty. I served as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
+    </section>
+    <section id='section11'>
+        <h3>2019 to 2020</h3>
+        <p>Once I completed my year of national service as an AmeriCorps VISTA, I began working as a Connections Coach with EDSI at the PA CareerLink Capital Region in Harrisburg. In this role, I worked with local youth to help them gain valuable work experience and assisted them in progressing towards their professional deveopment and career goals. </p>
+    </section>
+    <section id='section12'>
+        <h3>2020 to Today</h3>
+        <p>In September 2020, I trasitioned into the role of Outreach Specialist for Dauphin and Lebanon counties in South Central Pennsylvania. As Outreach Specialist, my focus switched to connecting with community organizations and local high schools to promote programming available to the public through the PA CareerLink. In this role, I developed new marketing strategies that were implemented throughout the region to expand the reach of the PA CareerLink and it's services.</p>
+    </section>
+    <section id='section13'>
+        <h3>What's next?</h3>
+        <p>Due to a job transfer, my family is now moving to the Pittsburgh area and I am looking for new and exciting job opportunities in the area where I can leverage my experience in marketing, outreach, and workforce development! </p>
     </section>
 </div>
 <script>
@@ -111,27 +123,27 @@ var chapters = {
         bearing: 0,
         center: [-122.261800, 37.504900],
         zoom: 13.00,
-        pitch: 0
+        pitch: 1
     },
     'section2': {
         center: [-122.236630, 37.484400],
         bearing: 0,
         zoom: 16,
-        speed: 0.6,
+        speed: 0.8,
         pitch: 0
     },
     'section3': {
         bearing: 0,
         center: [-77.196480, 40.202644],
         zoom: 16,
-        speed: 0.6,
+        speed: 0.8,
         pitch: 0.00
     },
     'section4': {
         bearing: 0,
         center: [-4.412525, 36.720476],
         zoom: 10,
-        speed: 0.6,
+        speed: 0.8,
         pitch: 0
     },
     'section5': {
@@ -139,41 +151,62 @@ var chapters = {
         center: [-122.402524, 37.789760],
         zoom: 16,
         pitch: 0,
-        speed: 0.6
+        speed: 0.8
     },
     'section6': {
         bearing: 0,
         center: [-4.417654, 36.727547],
         zoom: 16,
         pitch: 0,
-        speed: 0.6
+        speed: 0.8
     },
     'section7': {
         bearing: 0,
         center: [-76.856344, 40.316054],
         zoom: 16,
-        speed: 0.6,
+        speed: 0.8,
         pitch: 0
     },
     'section8': {
         bearing: 0,
         center: [-77.189775, 40.201830],
         zoom: 16,
-        speed: 0.6,
+        speed: 0.8,
         pitch: 0
      },
     'section9': {
         bearing: 0,
         center: [-77.196480, 40.202644],
         zoom: 16,
-        speed: 0.6,
+        speed: 0.8,
         pitch: 0
     },
     'section10': {
         bearing: 0,
         center: [-76.839820, 40.236482],
         zoom: 16,
-        speed: 0.6,
+        speed: 0.8,
+        pitch: 0 
+    },
+    'section11': {
+        bearing: 0,
+        center: [-76.875740, 40.266410],
+        zoom: 16,
+        speed: 0.8,
+        pitch: 0 
+     },
+    'section12': {
+        bearing: 0,
+        center: [-76.875740, 40.266410],
+        zoom: 16,
+        speed: 0.8,
+        pitch: 0 
+     },
+    'section13': {
+        bearing: 0,
+        center: [-79.995888, 40.440624],
+        zoom: 16,
+        speed: 0.8,
         pitch: 0 
     }};
 // On every scroll event, check which element is on screen
