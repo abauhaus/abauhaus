@@ -69,11 +69,11 @@ section:last-child {
     </section>
     <section id='section6'>
         <h3>Semester Abroad: 2017</h3>
-        <p>Malaga Spain — In Spring 2017, I was able to return to Málaga for a semester abroad. I spent 5 months living with a Spanish host family and attending classes at the Universidad de Málaga. By the end of my stay in Spain, my Spanish fluency had improved immensely along with my understanding of Spanish culture.</p>
+        <p>In Spring 2017, I was able to return to Málaga for a semester abroad. I spent 5 months living with a Spanish host family and attending classes at the Universidad de Málaga. By the end of my stay in Spain, my Spanish fluency had improved immensely along with my understanding of Spanish culture.</p>
     </section>
     <section id='section7'>
         <h3>Summer: 2017</h3>
-        <p>In the summer before my senior year at Dickinson, I was able to have two different internships. The first was with the Pennsylvania Behavioral Health and Aging Coalition (PBHAC) where I was a Communications Intern. At PBHAC I managed their social media presence, event marketing and coordination and attended trainings to develop better healthcare for older Pennsylvanians.</p>
+        <p>The summer before my senior year at Dickinson, I completed two different internships. The first was with the Pennsylvania Behavioral Health and Aging Coalition (PBHAC) where I was a Communications Intern. At PBHAC I managed their social media presence, event marketing and coordination and attended trainings to develop better healthcare for older Pennsylvanians.</p>
     </section>
     <section id='section8'>
         <h3>Summer: 2017</h3>
@@ -85,7 +85,7 @@ section:last-child {
     </section>
     <section id='section10'>
         <h3>Post-Grad: 2018 to 2019</h3>
-        <p>After earning by B.A., I completed a year of national service through the AmeriCorps VISTA program. AmeriCorps VISTA is a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty. I served as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
+        <p>After earning by B.A., I completed a year of national service through the AmeriCorps VISTA program, a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty. I served as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
     </section>
     <section id='section11'>
         <h3>2019 to 2020</h3>
@@ -178,29 +178,29 @@ var chapters = {
     'section9': {
         bearing: 0,
         center: [-77.196480, 40.202644],
-        zoom: 15,
-        speed: 0.8,
+        zoom: 15.5,
+        speed: 0.6,
         pitch: 1
     },
     'section10': {
         bearing: 0,
         center: [-76.884407, 40.262730],
-        zoom: 13,
+        zoom: 14,
         speed: 0.8,
         pitch: 1
     },
     'section11': {
         bearing: 0,
         center: [-76.875740, 40.266410],
-        zoom: 13,
-        speed: 0.8,
+        zoom: 14,
+        speed: 0.6,
         pitch: 1 
      },
     'section12': {
         bearing: 0,
-        center: [-76.875740, 40.266410],
-        zoom: 13,
-        speed: 0.8,
+        center: [-76.8115168, 40.398036],
+        zoom: 10,
+        speed: 0.6,
         pitch: 1
      },
     'section13': {
