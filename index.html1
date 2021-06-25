@@ -57,7 +57,7 @@ section:last-child {
     </section>
     <section id='section3'>
         <h3>College: 2014 to 2018</h3>
-        <p>In August of 2014 I moved 3,000 miles from home to Carlisle, PA to continue my education at Dickinson College. In my second semester at Dickinson I was invited to join Kappa Alpha Theta, a Women’s Fraternity with values of intellectual curiosity, leadership potential, commitment to service, and personal excellence. During my sophomore year, I joined and then was made co-president of the Red Devil Swim Club, Dickinson’s club swim team. I also served as the club’s Sports Club Council Representative. <p>
+        <p>In August of 2014 I moved 3,000 miles from home to Carlisle, PA to continue my education at Dickinson College.<p>In my second semester at Dickinson I was invited to join Kappa Alpha Theta, a Women’s Fraternity with values of intellectual curiosity, leadership potential, commitment to service, and personal excellence.<p>During my sophomore year, I joined and then was made co-president of the Red Devil Swim Club, Dickinson’s club swim team. I also served as the club’s Sports Club Council Representative. <p>
     </section>
     <section id='section4'>
         <h3>Summer Abroad: 2016</h3>
@@ -65,19 +65,19 @@ section:last-child {
     </section>
     <section id='section5'>
         <h3>Summer: 2016</h3>
-        <p>After returning home to California from Málaga, I interned for Environmental Entrepreneurs (E2) in San Francisco. At E2 I helped in advocating for California environmental policy through data input, policy briefs and meeting with California state senators in support of CA Senate Bill 32, which expands on the 2006 Assembly Bill 32 to reduce greenhouse gas emissions. In September, 2016 the bill passed!</p>
+        <p>After returning home to California from Málaga, I interned for Environmental Entrepreneurs (E2) in San Francisco.<p>At E2 I helped in advocating for California environmental policy through data input, policy briefs and meeting with California state senators in support of CA Senate Bill 32, which expands on the 2006 Assembly Bill 32 to reduce greenhouse gas emissions. In September, 2016 the bill passed!</p>
     </section>
     <section id='section6'>
         <h3>Semester Abroad: 2017</h3>
-        <p>In Spring 2017, I was able to return to Málaga for a semester abroad. I spent 5 months living with a Spanish host family and attending classes at the Universidad de Málaga. By the end of my stay in Spain, my Spanish fluency had improved immensely along with my understanding of Spanish culture.</p>
+        <p>In Spring 2017, I was able to return to Málaga for a semester abroad.<p>I spent 5 months living with a Spanish host family and attending classes at the Universidad de Málaga. By the end of my stay in Spain, my Spanish fluency had improved immensely along with my understanding of Spanish culture.</p>
     </section>
     <section id='section7'>
         <h3>Summer: 2017</h3>
-        <p>The summer before my senior year at Dickinson, I completed two different internships. The first was with the Pennsylvania Behavioral Health and Aging Coalition (PBHAC) where I was a Communications Intern. At PBHAC I managed their social media presence, event marketing and coordination and attended trainings to develop better healthcare for older Pennsylvanians.</p>
+        <p>The summer before my senior year at Dickinson, I completed two different internships. The first was with the Pennsylvania Behavioral Health and Aging Coalition (PBHAC) where I was a Communications Intern.<p>At PBHAC I managed their social media presence, event marketing and coordination and attended trainings to develop better healthcare for older Pennsylvanians.</p>
     </section>
     <section id='section8'>
         <h3>Summer: 2017</h3>
-        <p>The second internship I had in the summer of 2017 was with Court Appointed Special Advocates (CASA) located in the courthouse in Carlisle. There, I managed various case files and attended court hearing where CASA and Children and Youth Services were involved while also learning first-hand the challenges children in our communities face every day.</p>
+        <p>The second internship I had in the summer of 2017 was with Court Appointed Special Advocates (CASA) located in the Cumberland County Courthouse in Carlisle. There, I managed various case files and attended court hearing where CASA and Children and Youth Services were involved while also learning first-hand the challenges children in our communities face every day.</p>
     </section>
     <section id='section9'>
         <h3>Graduation: 2018</h3>
@@ -85,15 +85,15 @@ section:last-child {
     </section>
     <section id='section10'>
         <h3>Post-Grad: 2018 to 2019</h3>
-        <p>After earning by B.A., I completed a year of national service through the AmeriCorps VISTA program, a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty. I served as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
+        <p>After earning by B.A., I completed a year of national service through the AmeriCorps VISTA program, a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty.<p>I served as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
     </section>
     <section id='section11'>
         <h3>2019 to 2020</h3>
-        <p>Once I completed my year of national service as an AmeriCorps VISTA, I began working as a Connections Coach with EDSI at the PA CareerLink Capital Region in Harrisburg. In this role, I worked with local youth to help them gain valuable work experience and assisted them in progressing towards their professional deveopment and career goals. </p>
+        <p>Once I completed my year of national service as an AmeriCorps VISTA, I began working as a Connections Coach with EDSI at the PA CareerLink Capital Region in Harrisburg.<p>In this role, I worked with local youth to help them gain valuable work experience and assisted them in progressing towards their professional deveopment and career goals. </p>
     </section>
     <section id='section12'>
         <h3>2020 to Today</h3>
-        <p>In September 2020, I trasitioned into the role of Outreach Specialist for Dauphin and Lebanon counties in South Central Pennsylvania. As Outreach Specialist, my focus switched to connecting with community organizations and local high schools to promote programming available to the public through the PA CareerLink. In this role, I developed new marketing strategies that were implemented throughout the region to expand the reach of the PA CareerLink and it's services.</p>
+        <p>In September 2020, I trasitioned into the role of Outreach Specialist for Dauphin and Lebanon counties in South Central Pennsylvania.<p>As Outreach Specialist, my focus switched to connecting with community organizations and local high schools to promote programming available to the public through the PA CareerLink. In this role, I developed new marketing strategies that were implemented throughout the region to expand the reach of the PA CareerLink and it's services.</p>
     </section>
     <section id='section13'>
         <h3>What's next?</h3>
@@ -198,7 +198,7 @@ var chapters = {
      },
     'section12': {
         bearing: 0,
-        center: [-76.8115168, 40.398036],
+        center: [-76.6506001, 40.2854881],
         zoom: 10,
         speed: 0.6,
         pitch: 1
