@@ -77,7 +77,7 @@ section:last-child {
     </section>
     <section id='section8'>
         <h3>Summer: 2017</h3>
-        <p>The second internship I had in the summer of 2017 was with Court Appointed Special Advocates (CASA) located in the Cumberland County Courthouse in Carlisle. There, I managed various case files and attended court hearing where CASA and Children and Youth Services were involved while also learning first-hand the challenges children in our communities face every day.</p>
+        <p>The second internship I had in the summer of 2017 was with Court Appointed Special Advocates (CASA) located in the Cumberland County Courthouse in Carlisle.<p>There, I managed various case files and attended court hearing where CASA and Children and Youth Services were involved while also learning first-hand the challenges children in our communities face every day.</p>
     </section>
     <section id='section9'>
         <h3>Graduation: 2018</h3>
@@ -85,7 +85,7 @@ section:last-child {
     </section>
     <section id='section10'>
         <h3>Post-Grad: 2018 to 2019</h3>
-        <p>After earning by B.A., I completed a year of national service through the AmeriCorps VISTA program, a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty.<p>As an AmeriCorps VISTA, I served as a Marketing and Communications Associate at the Community Action Association of Pennsylvania working on a set of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling way.</p>
+        <p>After earning by B.A., I completed a year of national service through the AmeriCorps VISTA program, a national poverty alleviation program that sends volunteers into professional settings to work on projects targeting issues of poverty.<p>As an AmeriCorps VISTA, I served in a Marketing and Communications Associate role at the Community Action Association of Pennsylvania. During that time, I worked on a toolkit of marketing resources designed to help the public and Pennsylvania's Community Action Agencies talk about issues of poverty in a concise, compelling manner.</p>
     </section>
     <section id='section11'>
         <h3>2019 to 2020</h3>
@@ -97,7 +97,7 @@ section:last-child {
     </section>
     <section id='section13'>
         <h3>What's next?</h3>
-        <p>Due to a job transfer, my family is now moving to the Pittsburgh area and I am looking for new and exciting job opportunities in the area where I can leverage my experience in marketing, outreach, and workforce development! </p>
+        <p>My family is moving to the Pittsburgh area and I am looking for new and exciting job opportunities where I can leverage my experience in marketing, outreach, and workforce development! </p>
     </section>
 </div>
 <script>
@@ -199,7 +199,7 @@ var chapters = {
     'section12': {
         bearing: 0,
         center: [-76.6506001, 40.2854881],
-        zoom: 9,
+        zoom: 9.5,
         speed: 0.6,
         pitch: 1
      },
