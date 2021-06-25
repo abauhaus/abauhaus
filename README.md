@@ -77,7 +77,7 @@ section:last-child {
     </section>
     <section id='section8'>
         <h3>Summer: 2017</h3>
-        <p>The second internship I had in the summer of 2017 was with Court Appointed Special Advocates (CASA) located in the Cumberland County Courthouse in Carlisle.<p>There, I managed various case files and attended court hearing where CASA and Children and Youth Services were involved while also learning first-hand the challenges children in our communities face every day.</p>
+        <p>The second internship I had in the summer of 2017 was with Court Appointed Special Advocates (CASA) located in the Cumberland County Courthouse in Carlisle.<p>There, I managed various case files and attended court hearings where CASA and Children and Youth Services were involved while also learning first-hand the challenges children in our communities face every day.</p>
     </section>
     <section id='section9'>
         <h3>Graduation: 2018</h3>
