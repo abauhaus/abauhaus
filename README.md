@@ -81,7 +81,7 @@ section:last-child {
     </section>
     <section id='section9'>
         <h3>Graduation: 2018</h3>
-        <p>In May 2018, I graduated from Dickinson College in Carlisle, PA with a Bachelor of the Arts degree in Sociology and Spanish Language and Literature!</p>
+        <p>In May 2018, I graduated from Dickinson College in Carlisle, PA with a Bachelor of the Arts degree in Sociology with an emphasis in Social Policy, and Spanish Language and Literature!</p>
     </section>
     <section id='section10'>
         <h3>Post-Grad: 2018 to 2019</h3>
