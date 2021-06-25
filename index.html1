@@ -96,7 +96,7 @@ section:last-child {
         <p>In September 2020, I trasitioned into the role of Outreach Specialist for Dauphin and Lebanon counties in South Central Pennsylvania.<p>As Outreach Specialist, my focus switched to connecting with community organizations and local high schools to promote programming available to the public through the PA CareerLink. In this role, I developed new marketing strategies that were implemented throughout the region to expand the reach of the PA CareerLink and it's services.</p>
     </section>
     <section id='section13'>
-        <h3>What's next?</h3>
+        <h3>What's Next?</h3>
         <p>My family is moving to the Pittsburgh area and I am looking for new and exciting job opportunities where I can leverage my experience in marketing, outreach, and workforce development! </p>
     </section>
 </div>
